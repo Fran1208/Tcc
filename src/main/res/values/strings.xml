@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Test_TCC_1</string>
+
+
+    <string name="entrar">Entrar</string>
+    <string name="text_cadastro">Criar uma Conta </string>
+    <string name="title_cadastro">Cadastre-se</string>
+    <string name="title_ir_cadastro">Ir Cadastrar</string>
+
+
+    <string name="title_inserir_valor_QR">Insira o numero de indicação</string>
+
+
+
+</resources>
